@@ -12,7 +12,7 @@ public class Main
     public static void main(String[] args)
     {
         /**
-         * First without implementing interface
+         * First without implementing interface test
          */
         new Variant1(20);
 
