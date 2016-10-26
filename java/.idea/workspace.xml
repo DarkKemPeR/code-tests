@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/darkkemper.ru/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.20898642" vertical-offset="0" max-vertical-offset="957">
-              <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -449,7 +449,11 @@
       <created>1477490015595</created>
       <updated>1477490015595</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="test git">
+      <created>1477490779272</created>
+      <updated>1477490779272</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -666,7 +670,7 @@
     <entry file="file://$PROJECT_DIR$/darkkemper.ru/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20898642" vertical-offset="0" max-vertical-offset="957">
-          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

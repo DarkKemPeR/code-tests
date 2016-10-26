@@ -8,7 +8,7 @@ public class Main
     public static void main(String[] args)
     {
         /**
-         * <b>If you need to test one of examples below just uncomment them</b>
+         * If you need to test one of examples below just uncomment them
          */
 
         /**
