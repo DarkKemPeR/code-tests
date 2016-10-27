@@ -1,5 +1,8 @@
-import Observer.Variant1;
-import Observer.Variant2;
+package darkkemper;
+
+import darkkemper.Observer.Variant1;
+import darkkemper.Observer.Variant2;
+
 /**
  * Created by darkkemper on 26.10.16.
  */

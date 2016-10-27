@@ -1,5 +1,4 @@
-package Observer;
-
+package darkkemper.Observer;
 /**
  * Created by darkkemper on 26.10.16.
  */
