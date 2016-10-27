@@ -29,7 +29,7 @@ My own sandbox for associating design patterns theory, small and big solutions a
 ||Iterator||
 ||Mediator||
 ||Memento||
-|Java|Observer|[darkkemper.ru/src/Observer](https://github.com/DarkKemPeR/code-tests/tree/master/java/darkkemper.ru/src/Observer)|
+|Java|Observer|[darkkemper.ru/src/Observer](https://github.com/DarkKemPeR/code-tests/tree/master/java/ObserverPattern)|
 ||State||
 ||Strategy||
 ||Template method||
