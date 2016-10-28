@@ -5,7 +5,7 @@ My own sandbox for associating design patterns theory, small and big solutions a
 ####Solutions
 |**Language**|**Solution** | **Description** | **Link** |
 | ------------| ------------|-----------------|----------|
-|Java|JSONObjectIterator|JSON property / value listing|[darkkemper.ru/src/JSONIterator](https://github.com/DarkKemPeR/code-tests/tree/master/java/JSONObjectIterator)|
+|Java|JSONObjectIterator|JSON property / value listing|[code-tests/tree/master/java/JSONObjectIterator](https://github.com/DarkKemPeR/code-tests/tree/master/java/JSONObjectIterator)|
 
 ####Patterns
 |**Language**|**Pattern**  | **Link** |
@@ -29,7 +29,7 @@ My own sandbox for associating design patterns theory, small and big solutions a
 ||Iterator||
 ||Mediator||
 ||Memento||
-|Java|Observer|[darkkemper.ru/src/Observer](https://github.com/DarkKemPeR/code-tests/tree/master/java/ObserverPattern)|
+|Java|Observer|[code-tests/tree/master/java/ObserverPattern](https://github.com/DarkKemPeR/code-tests/tree/master/java/ObserverPattern)|
 ||State||
 ||Strategy||
 ||Template method||
