@@ -1,13 +1,13 @@
 # code-tests
-###Why?
+### Why?
 My own sandbox for associating design patterns theory, small and big solutions and some ideas to real life examples.
-###Code
-####Solutions
+### Code
+#### Solutions
 |**Language**|**Solution** | **Description** | **Link** |
 | ------------| ------------|-----------------|----------|
 |Java|JSONObjectIterator|JSON property / value listing|[code-tests/tree/master/java/JSONObjectIterator](https://github.com/DarkKemPeR/code-tests/tree/master/java/JSONObjectIterator)|
 
-####Patterns
+#### Patterns
 |**Language**|**Pattern**  | **Link** |
 | ------------| ------------|----------|
 ||Abstract factory||
